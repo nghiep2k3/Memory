@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper{
+    background-image: url(https://recmiennam.com/wp-content/uploads/2018/02/hinh-nen-trai-tim-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgb(159, 6, 95); */
+}
+
+#wrapper .header h1{
+    color: red;
+    text-align: center;
+}
+
+#wrapper .row1{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#wrapper .row1 .image img{
+    padding: 10px;
+    width: 350px;
+    height: 450px;
+}
+#image{
+    background-image: url(https://d1hjkbq40fs2x4.cloudfront.net/2017-08-21/files/landscape-photography_1645.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
