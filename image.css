@@ -4,6 +4,7 @@
 }
 
 #wrapper{
+    min-width: 400px;
     background-image: url(https://recmiennam.com/wp-content/uploads/2018/02/hinh-nen-trai-tim-1.png);
     background-repeat: no-repeat;
     background-size: cover;
